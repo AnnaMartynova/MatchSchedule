@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MatchSchedule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Match Schedule</string>
+    <string name="home_fragment">Home Fragment</string>
+
+</resources>
